@@ -1,0 +1,218 @@
+2020-07-09 13:44:28,663 - Test.Testlogs -INFO - testing ram
+2020-07-09 13:44:31,079 - Test.Testlogs -INFO - testing ram
+2020-07-09 13:52:33,659 - Test.Testlogs -INFO - chrome launched
+2020-07-09 13:52:49,698 - Test.Testlogs -INFO - Login successful
+2020-07-09 13:52:52,561 - Test.Testlogs -INFO - Clicked on dashboard
+2020-07-09 13:53:09,970 - Test.Testlogs -INFO - Click on add new project
+2020-07-14 09:03:15,995 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:08:04,684 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:15:11,021 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:21:04,349 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:25:08,337 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:30:53,946 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:37:24,594 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:41:29,493 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:41:42,621 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:41:42,892 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:41:48,615 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:41:50,740 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:41:52,191 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:41:52,443 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:41:54,554 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:41:56,964 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:41:58,182 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:41:58,454 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:42:00,892 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:42:02,999 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:48:53,193 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:49:04,098 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:49:04,378 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:49:09,401 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:49:11,532 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:49:12,950 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:49:13,203 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:49:15,243 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:49:17,646 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:49:18,725 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:49:19,010 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:49:21,522 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:49:23,660 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:52:00,970 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:52:14,188 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:52:14,441 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:52:19,161 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:52:21,175 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:52:22,421 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:52:22,684 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:52:23,417 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:55:12,612 - Test.Testlogs -INFO - chrome launched
+2020-07-14 09:55:27,310 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:55:27,567 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:55:33,072 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:55:35,745 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 09:55:37,116 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:55:37,375 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:55:38,156 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:55:39,690 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 09:55:39,942 - Test.Testlogs -INFO - Entered password
+2020-07-14 09:55:42,548 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 09:55:44,730 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:00:25,471 - Test.Testlogs -INFO - chrome launched
+2020-07-14 10:00:41,016 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:00:41,332 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:00:47,376 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:00:50,485 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:00:51,960 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:00:52,339 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:00:53,523 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:00:54,936 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:00:55,231 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:00:58,202 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:01:00,327 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:03:27,984 - Test.Testlogs -INFO - chrome launched
+2020-07-14 10:03:42,376 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:03:42,740 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:03:47,985 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:03:50,882 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:03:52,468 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:03:52,851 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:03:53,948 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:03:55,641 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:03:55,979 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:03:59,116 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:04:01,582 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:57:51,582 - Test.Testlogs -INFO - chrome launched
+2020-07-14 10:58:08,135 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:58:08,412 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:58:15,559 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:58:18,161 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 10:58:19,704 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:58:19,997 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:58:20,833 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:58:22,199 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 10:58:22,464 - Test.Testlogs -INFO - Entered password
+2020-07-14 10:58:25,216 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 10:58:27,598 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:03:39,348 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:03:52,077 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:03:52,397 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:03:58,953 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:04:01,276 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:04:02,617 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:04:02,898 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:04:03,819 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:04:05,328 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:04:05,606 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:04:08,366 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:04:10,517 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:07:22,202 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:09:19,163 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:11:28,786 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:12:55,762 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:13:09,479 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:13:09,760 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:13:17,197 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:13:19,600 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:13:21,587 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:13:21,900 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:13:23,058 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:13:24,506 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:13:24,779 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:13:27,435 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:13:29,603 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:20:12,367 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:20:58,745 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:21:20,525 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:21:21,171 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:21:32,601 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:21:35,032 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:21:36,501 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:21:36,772 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:21:37,696 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:26:02,064 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:26:16,059 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:26:16,336 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:26:23,137 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:26:26,071 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:26:27,512 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:26:27,785 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:26:28,713 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:26:30,304 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:26:30,585 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:26:33,265 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:26:35,504 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:32:51,566 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:33:04,319 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:33:04,598 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:33:12,084 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:33:14,794 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:33:16,285 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:33:16,579 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:33:17,486 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:33:18,837 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:33:19,107 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:33:21,808 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:33:24,035 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:52:52,402 - Test.Testlogs -INFO - chrome launched
+2020-07-14 11:53:15,969 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:53:16,287 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:53:25,521 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:53:28,033 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 11:53:29,556 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:53:29,809 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:53:31,216 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:53:33,234 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 11:53:33,481 - Test.Testlogs -INFO - Entered password
+2020-07-14 11:53:36,451 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 11:53:38,611 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 12:04:29,750 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:05:18,682 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:05:31,228 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:05:31,531 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:05:36,485 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:05:38,722 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 12:05:40,130 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:05:40,406 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:05:41,420 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:10:42,730 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:10:55,734 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:10:55,996 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:11:00,967 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:11:03,128 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 12:11:04,409 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:11:04,682 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:11:05,791 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:13:56,383 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:14:10,861 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:14:11,208 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:15:07,642 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:17:05,887 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:17:18,997 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:17:19,280 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:17:32,639 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:17:35,794 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 12:17:37,140 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:17:37,421 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:17:38,712 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:19:38,770 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:20:03,020 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:20:03,328 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:20:17,006 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:28:05,508 - Test.Testlogs -INFO - chrome launched
+2020-07-14 12:28:15,161 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:28:15,410 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:28:22,623 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:28:24,799 - Test.Testlogs -INFO - Click on logout button
+2020-07-14 12:28:26,155 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:28:26,424 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:28:27,244 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:28:28,607 - Test.Testlogs -INFO - Entered emailID
+2020-07-14 12:28:28,853 - Test.Testlogs -INFO - Entered password
+2020-07-14 12:28:31,858 - Test.Testlogs -INFO - Click on signin button
+2020-07-14 12:28:34,295 - Test.Testlogs -INFO - Click on logout button
+2020-07-15 14:39:49,936 - Test.Testlogs -INFO - chrome launched
+2020-07-15 14:40:05,331 - Test.Testlogs -INFO - Login successful
+2020-07-15 14:40:08,522 - Test.Testlogs -INFO - Clicked on dashboard
+2020-07-15 14:40:26,086 - Test.Testlogs -INFO - Click on add new project
+2020-07-24 11:16:50,913 - Test.Testlogs -INFO - testing ram
+2020-07-24 11:16:53,473 - Test.Testlogs -INFO - testing ram
